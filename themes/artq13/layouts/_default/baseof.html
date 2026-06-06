@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" data-ext-hash="{{ hugo.Data.site.extendedHash }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ .Site.Params.description }}">
+  <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
+  <meta property="og:description" content="{{ .Site.Params.description }}">
+  <meta property="og:image" content="/img/og-image.png">
+  <link rel="icon" type="image/png" href="/img/favicon.png">
+  <link rel="apple-touch-icon" href="/img/icon-256.png">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+  <nav id="nav">
+    <a href="/" class="site-title"><img src="/img/og-image.png" alt="artQ13" class="site-logo"></a>
+    <ul>
+      {{ range .Site.Menus.main }}
+      <li><a href="{{ .URL }}"{{ if $.IsMenuCurrent "main" . }} class="active"{{ end }}>{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </nav>
+
+  <main id="content">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer id="footer">
+    <p>{{ .Site.Params.location }}</p>
+  </footer>
+
+  <div class="lightbox-overlay" id="lightbox">
+    <img id="lightbox-img" src="" alt="">
+  </div>
+
+  <script src="/js/unlock.js"></script>
+  <script>
+  (function() {
+    var lb = document.getElementById('lightbox');
+    var lbImg = document.getElementById('lightbox-img');
+
+    document.addEventListener('click', function(e) {
+      if (e.target.tagName === 'IMG' &&
+          (e.target.closest('.project-body') ||
+           e.target.closest('.extended-content') ||
+           e.target.closest('.hero-image'))) {
+        e.preventDefault();
+        e.stopPropagation();
+        lbImg.src = e.target.src;
+        lb.classList.add('active');
+      }
+    }, true);
+
+    lb.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      lb.classList.remove('active');
+    });
+
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') lb.classList.remove('active');
+    });
+  })();
+  </script>
+</body>
+</html>

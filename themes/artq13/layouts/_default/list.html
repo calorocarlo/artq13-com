@@ -1,0 +1,18 @@
+{{ define "main" }}
+<header class="section-header">
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}<div class="section-intro">{{ . }}</div>{{ end }}
+</header>
+
+<div class="project-list">
+  {{ range .Pages.ByDate.Reverse }}
+  <article class="project-entry">
+    <a href="{{ .RelPermalink }}">
+      <span class="project-date">{{ .Date.Format "2006" }}</span>
+      <span class="project-title">{{ .Title }}</span>
+      {{ with .Params.status }}<span class="project-status {{ . }}">{{ . }}</span>{{ end }}
+    </a>
+  </article>
+  {{ end }}
+</div>
+{{ end }}

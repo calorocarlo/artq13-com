@@ -1,0 +1,8 @@
+<div class="extended-gate" id="extended-gate">
+  <p class="extended-label">Extended archive content is available for this project.</p>
+  <button class="extended-unlock-btn" onclick="showUnlockPrompt()">Unlock</button>
+</div>
+<div class="extended-content" id="extended-content" style="display:none;">
+  {{ .Inner }}
+  <button class="extended-lock-btn" onclick="lockExtended()">Lock</button>
+</div>

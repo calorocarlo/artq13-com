@@ -1,0 +1,4 @@
+# SHA-256 hash of the shared password for extended content
+# Current password: artq13archive
+# To change: echo -n "newpassword" | shasum -a 256
+extendedHash = "5164d0d45c7b2c5af9f9666b4a127323c88af9a251caa47feda3669c73f17948"

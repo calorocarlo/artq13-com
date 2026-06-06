@@ -1,0 +1,44 @@
+baseURL = "https://www.artq13.com/"
+languageCode = "en"
+title = "artQ13"
+theme = "artq13"
+
+disableKinds = ["taxonomy", "term", "RSS"]
+enableRobotsTXT = true
+
+[params]
+  description = "Sympatric Areas for Artistic Research"
+  email = ""
+  instagram = "https://www.instagram.com/artq13_rome/"
+  location = "Viale della Piramide Cestia, 1 — Roma"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 1
+  [[menu.main]]
+    name = "Archive"
+    url = "/archive/"
+    weight = 2
+  [[menu.main]]
+    name = "Texts"
+    url = "/texts/"
+    weight = 3
+  [[menu.main]]
+    name = "Artists"
+    url = "/artists/"
+    weight = 4
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 6

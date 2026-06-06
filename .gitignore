@@ -1,0 +1,26 @@
+# Hugo
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# macOS
+.DS_Store
+._.DS_Store
+**/.DS_Store
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Local env
+.env
+
+# File di lavoro non destinati al sito
+RIEPILOGO_IMMAGINI/
+RIEPILOGO_SITO.md
+comprimi-video.sh
