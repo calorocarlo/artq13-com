@@ -1,8 +1,13 @@
 ---
-title: "TOTE"
+title: "Tote"
 date: 2022-01-01
 status: "archived"
 artists: "Gaetano Mosca. Con Luigi Piliego (psicologo esperto linguaggi informatici)"
+gallery:
+  - /img/projects/tote-1.jpg
+  - /img/projects/tote-2.jpg
+_build:
+  list: never
 ---
 
 TOTE sta per Test, Operate, Test, Exit. Il performer Gaetano Mosca è collegato a un dispositivo GSR che misura la conduttanza cutanea in tempo reale. Mosca interpreta un monologo composto da dieci frasi. Ogni frase è accompagnata da una nota di regia che indica lo stato fisiologico del personaggio fittizio in quel momento — un livello preciso di attivazione corporea. Il dispositivo verifica in tempo reale se la conduttanza cutanea del performer coincide con quella prescritta per il personaggio. Se il livello non corrisponde, la discrepanza è visibile. Luigi Piliego ha collaborato alla costruzione del sistema. Il titolo riprende il modello cibernetico TOTE: si verifica lo stato corrente, si agisce per modificarlo, si verifica di nuovo, si procede. Il performer applica questo schema al proprio corpo: controlla il dato fisiologico, cerca di modificarlo, lo ricontrolla e passa alla frase successiva. La scala si inverte: il corpo registra qualcosa che il soggetto non sa di produrre.
@@ -19,4 +24,5 @@ TOTE sta per Test, Operate, Test, Exit. Il performer Gaetano Mosca è collegato 
 Foto: Cristina Crippa
 Produzione artQ13.
 
+**Gruppo:** [Handmade Artificial](/archive/handmade-artificial/)
 {{% /extended %}}

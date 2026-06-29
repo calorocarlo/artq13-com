@@ -1,5 +1,5 @@
 ---
-title: "STRETCHING THE LIFE"
+title: "Stretching the Life"
 date: 2024-01-01
 status: "archived"
 artists: "da definire"

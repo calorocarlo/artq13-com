@@ -1,5 +1,5 @@
 ---
-title: "THEY LOOK SO REAL!"
+title: "They Look So Real!"
 date: 2023-12-01
 status: "archived"
 hero: "/img/projects/they-look-so-real.jpg"

@@ -1,8 +1,11 @@
 ---
 title: "Be Prepared, Be Safe"
-date: 2025-06-22
+date: 2025-06-26
 status: "archived"
-placeholder: true
+gallery:
+  - /img/projects/be-prepared-be-safe-1.jpg
+  - /img/projects/be-prepared-be-safe-2.jpg
+  - /img/projects/be-prepared-be-safe-3.jpg
 artists: "Carlo Caloro"
 ---
 

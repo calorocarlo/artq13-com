@@ -1,7 +1,11 @@
 ---
-title: "DECOERENZA"
+title: "Decoerenza"
 date: 2025-01-01
 status: "archived"
+gallery:
+  - /img/projects/decoerenza-1.jpg
+  - /img/projects/decoerenza-2.jpg
+  - /img/projects/decoerenza-3.jpg
 artists: ""
 ---
 

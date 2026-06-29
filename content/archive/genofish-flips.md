@@ -1,7 +1,11 @@
 ---
-title: "GENOFISH & FLIPS"
+title: "Genofish & Flips"
 date: 2025-01-01
 status: "archived"
+gallery:
+  - /img/projects/genofish-flips-1.jpg
+  - /img/projects/genofish-flips-2.jpg
+  - /img/projects/genofish-flips-3.jpg
 artists: ""
 ---
 

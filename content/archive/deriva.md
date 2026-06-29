@@ -1,7 +1,8 @@
 ---
-title: "DERIVA"
+title: "Deriva"
 date: 2024-09-25
 status: "archived"
+hero: "/img/projects/deriva.jpg"
 placeholder: true
 ---
 

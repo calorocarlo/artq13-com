@@ -1,6 +1,6 @@
 ---
 title: "Seen/Unseen"
-date: 2023-06-01
+date: 2024-01-01
 status: "archived"
 hero: "/img/projects/seen-unseen.jpg"
 artists: "Carlo Caloro, Britta Lenk"

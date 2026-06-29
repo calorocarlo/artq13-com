@@ -1,5 +1,5 @@
 ---
-title: "MIRABILIA URBIS"
+title: "Mirabilia Urbis"
 date: 2019-10-07
 status: "archived"
 hero: "/img/projects/mirabilia-urbis.jpg"

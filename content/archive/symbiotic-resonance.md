@@ -1,5 +1,5 @@
 ---
-title: "SYMBIOTIC RESONANCE"
+title: "Symbiotic Resonance"
 date: 2024-01-01
 status: "archived"
 artists: ""

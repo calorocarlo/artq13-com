@@ -1,7 +1,11 @@
 ---
-title: "BARREN ABODE"
+title: "Barren Abode"
 date: 2023-01-01
 status: "archived"
+gallery:
+  - /img/projects/barren-abode-1.jpg
+  - /img/projects/barren-abode-2.jpg
+  - /img/projects/barren-abode-3.jpg
 artists: ""
 ---
 

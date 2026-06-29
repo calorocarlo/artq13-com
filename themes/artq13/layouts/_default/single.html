@@ -5,11 +5,17 @@
     {{ with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end }}
     <div class="meta">
       {{ with .Params.date }}<time>{{ .Format "January 2006" }}</time>{{ end }}
-      {{ with .Params.artists }}<span class="artists">{{ . }}</span>{{ end }}
       {{ with .Params.status }}<span class="project-status {{ . }}">{{ . }}</span>{{ end }}
     </div>
   </header>
 
+  {{ if .Params.gallery }}
+  <div class="project-gallery">
+    {{ range .Params.gallery }}
+    <a href="{{ . }}" class="gallery-item"><img src="{{ . }}" loading="lazy" alt=""></a>
+    {{ end }}
+  </div>
+  {{ else }}
   {{ with .Params.hero }}
   <div class="hero-image">
     <img src="{{ . }}" loading="lazy" alt="">
@@ -17,6 +23,7 @@
   {{ else }}
   {{ with .Params.placeholder }}
   <div class="image-placeholder"></div>
+  {{ end }}
   {{ end }}
   {{ end }}
 

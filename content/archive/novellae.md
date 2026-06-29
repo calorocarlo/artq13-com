@@ -2,11 +2,12 @@
 title: "Novellae"
 date: 2024-11-15
 status: "archived"
+hero: "/img/projects/novellae.jpg"
 placeholder: true
 artists: "Carlo Caloro"
 ---
 
-Carlo Caloro — Novellae, site-specific performative installation, 2024. Performed by Valentina Sansone. In parallelo con Я3ve3s0, esplora nuove forme narrative all'intersezione tra tecnologia e linguaggio.
+Carlo Caloro — *Novellae*, site-specific performative installation, 2024. Performer: Valentina Sansone. Dalle cave di marmo delle Alpi Apuane: il carbonato di calcio — al centro della performance — viene estratto con danni irreversibili all'ambiente. Una crema corpo a base di carbonato di calcio, prodotta per l'occasione e promossa sui social media, diventa nodo critico tra desiderio, sostenibilità e mercato.
 
 {{% extended %}}
 

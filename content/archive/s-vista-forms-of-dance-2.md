@@ -1,5 +1,5 @@
 ---
-title: "S.VISTA — Forms of Dance and Performance II"
+title: "S.VISTA — Forms of Dance and Performance (17 maggio 2025)"
 date: 2025-05-17
 status: "archived"
 placeholder: true

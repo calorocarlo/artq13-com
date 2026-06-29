@@ -8,7 +8,7 @@
   {{ range .Pages.ByDate.Reverse }}
   <article class="project-entry">
     <a href="{{ .RelPermalink }}">
-      <span class="project-date">{{ .Date.Format "2006" }}</span>
+      <span class="project-date">{{ with .Params.dateLabel }}{{ . }}{{ else }}{{ .Date.Format "2006" }}{{ end }}</span>
       <span class="project-title">{{ .Title }}</span>
       {{ with .Params.status }}<span class="project-status {{ . }}">{{ . }}</span>{{ end }}
     </a>

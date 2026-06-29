@@ -1,8 +1,10 @@
 ---
-title: "SKIN TO SKIN"
+title: "Skin to Skin"
 date: 2022-01-01
 status: "archived"
 artists: "due performer"
+_build:
+  list: never
 ---
 
 Sul corpo del primo performer vengono applicati tre tipi di sensori: un accelerometro, che registra i movimenti nello spazio tridimensionale; un giroscopio, che misura la velocità angolare e l'orientamento del corpo; un sensore di conduttanza cutanea, che rileva le variazioni della risposta elettrodermica. I dati raccolti vengono elaborati in tempo reale da un software e tradotti in forme visive proiettate su uno schermo. Il secondo performer si posiziona di fronte alla proiezione e osserva grafici, curve e variazioni numeriche che corrispondono ai movimenti e agli stati fisiologici del primo. Sulla base di queste informazioni visive, il secondo performer produce movimenti, interpretando con il proprio corpo i dati che legge sullo schermo. Il primo performer si muove, i sensori traducono il movimento in dati, i dati diventano immagini, il secondo performer risponde con il proprio corpo. Il ciclo si ripete per tutta la durata della performance, senza interruzioni e senza coreografia prestabilita.
@@ -19,4 +21,5 @@ Sul corpo del primo performer vengono applicati tre tipi di sensori: un accelero
 Foto: Cristina Crippa
 Produzione artQ13.
 
+**Gruppo:** [L'Aquila 2023](/archive/laquila-2023/)
 {{% /extended %}}

@@ -1,7 +1,11 @@
 ---
-title: "D.N.A. — DANCE NEEDS ACTION"
+title: "D.N.A. — Dance Needs Action"
 date: 2025-01-01
 status: "archived"
+gallery:
+  - /img/projects/d-n-a-dance-needs-action-1.jpg
+  - /img/projects/d-n-a-dance-needs-action-2.jpg
+  - /img/projects/d-n-a-dance-needs-action-3.jpg
 artists: "5 danzatrici professioniste + 9 non danzatori (14 totale)"
 ---
 

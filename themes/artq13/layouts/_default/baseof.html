@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{ if hugo.IsServer }}<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">{{ end }}
   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
   <meta name="description" content="{{ .Site.Params.description }}">
   <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}">
@@ -45,7 +46,8 @@
       if (e.target.tagName === 'IMG' &&
           (e.target.closest('.project-body') ||
            e.target.closest('.extended-content') ||
-           e.target.closest('.hero-image'))) {
+           e.target.closest('.hero-image') ||
+           e.target.closest('.project-gallery'))) {
         e.preventDefault();
         e.stopPropagation();
         lbImg.src = e.target.src;

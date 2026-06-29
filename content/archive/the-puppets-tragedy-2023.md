@@ -1,7 +1,8 @@
 ---
-title: "THE PUPPET'S TRAGEDY"
+title: "The Puppet's Tragedy"
 date: 2023-01-01
 status: "archived"
+hero: "/img/projects/the-puppets-tragedy-2023.jpg"
 artists: "Gilberto Bartoloni, Nicole Barbieri, Elisa Bongiovanni, Carlo Caloro, Arianna Carossa, Diana Collepiccolo, Lavinia Pozzi"
 ---
 

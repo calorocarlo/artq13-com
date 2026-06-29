@@ -1,7 +1,8 @@
 ---
-title: "INFILTR'AZIONI"
+title: "Infiltr'azioni"
 date: 2025-01-01
 status: "archived"
+hero: "/img/projects/infiltrazioni.jpg"
 artists: "posizionati in punti non dichiarati"
 ---
 

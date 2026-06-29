@@ -3,11 +3,11 @@ title: "How to Escape from the Cave"
 date: 2023-01-01
 status: "archived"
 hero: "/img/projects/how-to-escape.jpg"
-artists: "artQ13 — Compagnia Teatrale Avatāra"
+artists: "Carlo Caloro"
 question: "Nella società della performance, dove ogni individuo è un brand di se stesso, dove finisce il palco e dove inizia la platea?"
 ---
 
-Azione performativa teatrale 3D. Riflette sulla trasformazione dell'individuo nel Novecento: da ingranaggio del lavoro (Debord) a consumatore-spettatore, fino al performer contemporaneo della società della performance (Colamedici e Gancitano). Nella società dei social media, la separazione tra platea e palco è solo un ricordo.
+Carlo Caloro — *How to Escape from the Cave*, ricerca avviata nel 2023 e proseguita nel 2024. Doppia versione: una compagnia di avatar 3D agisce nello spazio di artQ13 ricreato in computer grafica; una compagnia di performer umani replica la stessa azione dal vivo nello spazio reale di artQ13. Riflette sulla trasformazione dell'individuo nel Novecento: da ingranaggio del lavoro (Debord) a consumatore-spettatore, fino al performer della società della performance (Colamedici e Gancitano). Nella società dei social media, la separazione tra platea e palco è solo un ricordo.
 
 {{% extended %}}
 

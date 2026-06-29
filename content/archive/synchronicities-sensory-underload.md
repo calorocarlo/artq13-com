@@ -3,7 +3,7 @@ title: "Synchronicities — Sensory Underload"
 date: 2025-03-01
 status: "archived"
 hero: "/img/projects/synchronicities-sensory-underload.jpg"
-artists: "Carlo Caloro, Virginia Guidi"
+artists: "Marco Ariano, Gilberto Bartolone, Carlo Caloro, Erika Ciccone, Leonetta Gandon, Virginia Guidi, Lucia Guarino, Melissa Lohman, Luana Lunetta, Valentina Sansone, Elena Roscioli"
 ---
 
 Estensione del progetto editoriale Synchronicities. Esplora l'interazione tra arti visive e suono attraverso la sottrazione sensoriale piuttosto che l'accumulo.

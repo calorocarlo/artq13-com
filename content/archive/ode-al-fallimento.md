@@ -1,7 +1,8 @@
 ---
-title: "ODE AL FALLIMENTO"
+title: "Ode al Fallimento"
 date: 2023-01-01
 status: "archived"
+hero: "/img/projects/ode-al-fallimento.jpg"
 artists: ""
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "SLAPS-POURRI.2"
+title: "Slaps-Pourri.2"
 date: 2016-05-20
 status: "archived"
 hero: "/img/projects/slaps-pourri-2.jpg"

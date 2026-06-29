@@ -1,7 +1,8 @@
 ---
-title: "TRESSA"
+title: "Tressa"
 date: 2025-01-01
 status: "archived"
+hero: "/img/projects/tressa.jpg"
 artists: ""
 ---
 

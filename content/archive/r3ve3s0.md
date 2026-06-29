@@ -1,7 +1,8 @@
 ---
 title: "Я3VE3S0"
-date: 2025-01-01
+date: 2024-01-01
 status: "archived"
+hero: "/img/projects/r3ve3s0.jpg"
 artists: "Flaminia Ambrosini, Chiara Autizi, Federica Beni, Fiamma Franchi, Francesca Coderoni, Francesca Groos, Maria Di Mario, Caterina Lo Bue, Annabella Marotta, Alice Pierangeli, Elena Roscioli, Virginia Savorani. Testo critico: Alessio Ragno. Contributo nel volume: Lucia Testa"
 ---
 
@@ -21,6 +22,11 @@ Cinque istruzioni scritte compongono la partitura: "Umana macchina", "Non c'è e
 
 ## Regime
 *Regime da definire — le performer operano come una rete neurale umana; qui la stringa è il ciclo di feedback tra i nodi: ogni output diventa input per il nodo successivo, e il segnale si modifica a ogni passaggio.*
+
+## Lavori collegati
+
+- [*Bit in Versi*](/archive/bit-in-versi/) — il reading del 22 novembre 2024 nel quale R3ve3s0 è stata presentata
+- [*Dreams of an Electric Critic*](/archive/dreams-of-an-electric-critic/) — il volume antologico (Lithos, in uscita 2026)
 
 Foto: Cristina Crippa
 Produzione artQ13.

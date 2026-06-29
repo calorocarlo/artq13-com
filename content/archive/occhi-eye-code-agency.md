@@ -1,7 +1,8 @@
 ---
-title: "OCCHI — EYE CODE AGENCY"
+title: "Occhi — Eye Code Agency"
 date: 2025-01-01
 status: "archived"
+hero: "/img/projects/occhi-eye-code-agency.jpg"
 artists: ""
 ---
 

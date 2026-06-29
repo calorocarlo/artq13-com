@@ -1,5 +1,5 @@
 ---
-title: "LIPOGESTURE"
+title: "Lipogesture"
 date: 2023-01-01
 status: "archived"
 artists: ""

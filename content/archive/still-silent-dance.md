@@ -1,22 +1,30 @@
 ---
-title: "STILL SILENT DANCE"
-date: 2023-01-01
+title: "Still Silent Dance"
+date: 2023-08-19
 status: "archived"
-artists: "due performer immobili"
+hero: "/img/projects/still-silent-dance.jpg"
+artists: "Carlo Caloro / Valentina Sansone / Luca Della Corte"
+_build:
+  list: never
 ---
 
-Un pannello di legno da birdwatching è collocato nello spazio. Sul pannello sono montati binocoli e casse acustiche. Due performer stanno immobili e osservano tutto ciò che si muove intorno a loro: rami, fontanelle, insetti, uccelli. Gli spettatori guardano attraverso i binocoli e seguono la direzione dello sguardo dei performer, che puntano un microfono direzionale verso la fonte del movimento e del suono individuata. Il suono catturato dal microfono arriva alle casse acustiche montate sul pannello. Lo spettatore sincronizza ciò che ascolta con ciò che vede attraverso le lenti. L'immobilità dei performer funziona come filtro: solo ciò che si muove nell'ambiente circostante diventa visibile e udibile. Il pannello replica la struttura di un capanno da birdwatching, dove chi guarda resta fermo e nascosto. Il microfono direzionale seleziona una porzione dello spazio sonoro e la isola dal resto. Lo spettatore non sceglie cosa guardare: segue il punto indicato dai performer e riceve il suono corrispondente.
+Still Silent Dance — ChoeroScopic Park Dance Performance. Performance coreoscopica al Parco del Sole, L'Aquila, 19 agosto 2023. Nata da un'idea di Carlo Caloro, con i performer Valentina Sansone e Luca Della Corte. Il pubblico è invitato a seguire le azioni a occhio nudo o muniti di binocoli e telescopi, alcuni messi a disposizione dal team di artQ13.
 
 {{% extended %}}
 
-## Dettagli
-**Luogo:** [da definire]
-**Performer:** due performer immobili
+## Dettagli evento
 
-## Regime
-*Regime: [da definire]. Qui l'apparato — pannello, binocoli, microfono direzionale, casse — tiene insieme la posizione dello spettatore, la direzione dello sguardo e la sorgente sonora. I performer sono immobili; solo ciò che si muove nell'ambiente attraversa il dispositivo e raggiunge chi guarda.*
+**Ideazione:** Carlo Caloro
+**Performer:** Valentina Sansone, Luca Della Corte
+**Luogo:** Parco del Sole, L'Aquila
+**Data:** 19 agosto 2023
+**Produzione:** artQ13 — Sympatric Areas for Artistic Research
+**Gruppo:** [L'Aquila 2023](/archive/laquila-2023/)
 
-Foto: Sebastiano Luciano
-Produzione artQ13.
+## Testo
+
+Sabato 19 agosto 2023 artQ13 ha presentato al Parco del Sole de L'Aquila la performance Still Silent Dance — ChoeroScopic Park Dance Performance.
+
+La performance si articola nel paesaggio del parco. I performer agiscono nella distanza: il pubblico ne segue il gesto a occhio nudo o attraverso binocoli e telescopi messi a disposizione dal team. La distanza dello sguardo, la mediazione ottica e il silenzio costruiscono un dispositivo coreoscopico — la danza si offre come osservazione di un evento remoto. Il gesto resta integro nel suo spazio, lo spettatore lo raggiunge solo attraverso la lente.
 
 {{% /extended %}}
